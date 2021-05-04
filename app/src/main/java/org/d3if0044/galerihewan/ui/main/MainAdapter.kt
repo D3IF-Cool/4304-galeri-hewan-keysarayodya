@@ -1,4 +1,4 @@
-package org.d3if0044.galerihewan
+package org.d3if0044.galerihewan.ui.main
 
 import Hewan
 import android.view.LayoutInflater
